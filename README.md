@@ -22,16 +22,6 @@ The dataset represents synthetic healthcare patient records with information on 
 
 **Dataset Link:** [Healthcare Dataset | Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
-**Dataset Statistics:**
-| Metric | Value |
-|--------|-------|
-| Total Admissions | 55,500 |
-| Unique Patients | 49,999 |
-| Date Range | May 2019 - May 2024 |
-| Medical Conditions | 6 |
-| Insurance Providers | 5 |
-| Medications | 5 |
-
 ## Schema
 
 ### Staging Table
