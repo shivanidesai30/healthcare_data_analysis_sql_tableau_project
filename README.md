@@ -1,6 +1,6 @@
 # Healthcare Analytics Project: Data Analysis Using SQL
 
-![Hospital]()
+![Hospital](https://github.com/shivanidesai30/healthcare_data_analysis_sql_tableau_project/blob/main/hospital.jpg)
 
 ## Overview
 
